@@ -1,2 +1,2 @@
 # machine_learning_project
-This is first machine learning project.
+This is my first machine learning project.
